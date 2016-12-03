@@ -1,2 +1,2 @@
 #Advent of Code 2016
-In this directory are my solutions to this year's Advent of Code. The goal is to solve them first and then optimize them later. All solutions are done in Python. Most, if not all, of my solutions will be in test.py!
+In this directory are my solutions to this year's Advent of Code. The goal is to solve them first and then optimize them later. All solutions are done in Python. Most, if not all, of my solutions will be in test.py! Note: I forgot to post the part 1 solutions for Days 1 and 2, and I may go back in the future and repost them. If not, I apologize (the rest will have both parts uploaded separately)
